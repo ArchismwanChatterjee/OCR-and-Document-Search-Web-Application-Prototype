@@ -32,8 +32,6 @@ The website is hosted using Hugging Face Spaces. Try it out [here](https://huggi
 - **Hugging Face Transformers**: Used for the General OCR Theory (GOT) model and Qwen2VL for multi-modal processing.
 - **Gradio**: For building an easy-to-use web interface.
 - **Hugging Face Spaces**: Deployed the application on this platform.
-- **Pandas**: For text processing and data handling.
-- **Numpy**: For numerical computations.
 
 ## How to Use:
 
@@ -41,7 +39,7 @@ The website is hosted using Hugging Face Spaces. Try it out [here](https://huggi
     ```sh
     git clone https://github.com/ArchismwanChatterjee/OCR-and-Document-Search-Web-Application-Prototype.git
     ```
-2. Install the required libraries:
+2. Install the required libraries (for app.py):
    ```sh
    pip install -r requirements.txt
    ```
